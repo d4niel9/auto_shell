@@ -1,4 +1,4 @@
-# Automation Console  :computer:
+# Automation Shell  :computer:
 
 ## Install  :gear:
 
